@@ -30,11 +30,10 @@ def until_iterator(7)
   i += 1
 end
 
-def for_iterator(number_of_times)
+def for_iterator(7)
   # code your solution here using the "for" keyword
   # remember that `for` requires a range of numbers. How can we turn our number into a range?
-  
-  phrase = "Welcome to Flatiron School's Web Development Course!"
-  
+  for i in for_iterator
+  puts"Welcome to Flatiron School's Web Development Course!"
 end
 
