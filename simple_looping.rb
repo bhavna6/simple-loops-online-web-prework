@@ -18,6 +18,7 @@ def while_iterator(7)
   # code your solution here using the "while" keyword
   # hint: user a counter to tell the while loop when to stop!
   while i < 8
+  i += 1
   puts "Welcome to Flatiron School's Web Development Course!"
 end
 
