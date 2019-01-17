@@ -28,7 +28,6 @@ def until_iterator(7)
   until i > 7 do
   puts "Welcome to Flatiron School's Web Development Course!"
   i += 1
-
 end
 
 def for_iterator(number_of_times)
