@@ -1,14 +1,14 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
-def loop_iterator(number_of_times)
+def loop_iterator(7)
   loop do 
     counter += 1
   phrase = "Welcome to Flatiron School's Web Development Course!"
-  if counter >=7
+  if counter >7
     break
 end
 
-def times_iterator(number_of_times)
+def times_iterator(7)
   # code your solution here using the "times" keyword
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
