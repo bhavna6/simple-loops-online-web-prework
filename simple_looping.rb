@@ -27,6 +27,7 @@ def until_iterator(7)
   # hint: use a counter to tell the until loop when to stop!
   until i > 7 do
   puts "Welcome to Flatiron School's Web Development Course!"
+  i += 1
 
 end
 
