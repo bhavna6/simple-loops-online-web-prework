@@ -3,14 +3,15 @@
 def loop_iterator(7)
   loop do 
     counter += 1
-  phrase = "Welcome to Flatiron School's Web Development Course!"
+  puts "Welcome to Flatiron School's Web Development Course!"
   if counter >7
     break
 end
 
 def times_iterator(7)
   # code your solution here using the "times" keyword
-  phrase = "Welcome to Flatiron School's Web Development Course!"
+  7.times do
+ puts "Welcome to Flatiron School's Web Development Course!"
   
 end
 
